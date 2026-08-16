@@ -9,7 +9,7 @@ def print_hi(name):
     print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
 
     a = 2
-    b = 2
+    b = 3
     print(a + b)
 
 
